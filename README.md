@@ -1,6 +1,6 @@
 <h2>This project is an API which has an endpoint returning specific data. It's a required project For Backend in HNG 13.</h2>
-<p>This data contains also text from a third party API which is Cat Facts API. </p>
-<p>Here is the format of the data: </p>
+<h3>This data contains also text from a third party API which is Cat Facts API. </h3>
+<h3>Here is the format of the data: </h3>
 
 {status: string,<br>
 user:{ <br>
