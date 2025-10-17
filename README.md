@@ -1,4 +1,4 @@
-This project is an API which has an endpoint returning specific data. It's a required project For Backend in HNG 13.
+<h2>This project is an API which has an endpoint returning specific data. It's a required project For Backend in HNG 13.</h2>
 This data contains also text from a third party API which is Cat Facts API. 
 Here is the format of the data: 
 {status: string,
